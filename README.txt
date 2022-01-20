@@ -1,1 +1,1 @@
-this assignment is all about git.
+this assignment is all about git and github. we are basically learning the commandas to run in git.
