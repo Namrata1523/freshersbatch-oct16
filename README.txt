@@ -1,1 +1,1 @@
-this assignments is all about git and github
+this assignment is all about git.
